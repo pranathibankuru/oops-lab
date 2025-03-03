@@ -1,0 +1,14 @@
+public class StudentInfo {
+    public static void main(String[] args) {
+        // Student details
+        String name = "John Doe";
+        int rollNo = 101;
+        char section = 'A';
+
+        // Printing student details
+        System.out.println("Student Information:");
+        System.out.println("Name: " + name);
+        System.out.println("Roll No: " + rollNo);
+        System.out.println("Section: " + section);
+    }
+}
